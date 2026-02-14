@@ -1,5 +1,169 @@
 [
   {
+    "sha": "82b345f573b51a2b53c1d23b3d2cd011b971ca65",
+    "node_id": "C_kwDOAgUK29oAKDgyYjM0NWY1NzNiNTFhMmI1M2MxZDIzYjNkMmNkMDExYjk3MWNhNjU",
+    "commit": {
+      "author": {
+        "name": "Thejana Weththasinghe",
+        "email": "118328955+ThejanaWeththz@users.noreply.github.com",
+        "date": "2026-02-07T22:47:03Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-02-07T22:47:03Z"
+      },
+      "message": "Clarify ExternalTaskSensor path in dags.rst (#61555)",
+      "tree": {
+        "sha": "0c74b893e391d32c6b395a613692978c6a8f5bdc",
+        "url": "https://api.github.com/repos/apache/airflow/git/trees/0c74b893e391d32c6b395a613692978c6a8f5bdc"
+      },
+      "url": "https://api.github.com/repos/apache/airflow/git/commits/82b345f573b51a2b53c1d23b3d2cd011b971ca65",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJph8DnCRC1aQ7uu5UhlAAAAIoQAK0CN6U3nbzjpIEdEOqcuCL5\nFJFh0p91/j+WmOUGC/2sqcCvFizuGN5nWQe0dWZYPU2LJ6nH4+8Sk1gDcnb3LuIG\nKduzR1hrauNFjceQlzdD9I05KnjK+NkqvefbrgP5eGjVqCw/7Ea9n7BjK1axG+4K\n2Vz7s2O/riLJW8jDe81rqtYUWwL0ZhZsnsig3pDNF+MLyfr5gY0i+52Ky8U8JQg4\n6bJ6mdUZzTYePvnRLNLDuDckKuDbBVNvlBE7LdtkUCbTjFx/gCNfgMxgGjb/WkxV\nofhxwFX+BOCr6SM35cBiwP13O30qEbgsfbVtxzimonQ+nwkUQPblo+fXEVkw8l7B\nIEDX62eNd3/5LJIgpTyr5T1MiMO1ZbTfN+f+ybkEKhpaRX26Jc2cl7+CpjEFCSwf\nw5iIrv86T2m1AE8UfPRIzBRUPliFqKlXNxBp22wmhGsdkXXdPTTVE5o2HoXTPm5l\n6Kje1DIYNHnC7PD+/fKeU9vCQkwChUz0TsP+ADbxFXNEH0YEwgSokg721dN4KfNv\njZbgVSHlULHzadNId3X3vN9km3/+SCkbwUu3mgheqihv08rDhfYHC0MM4O1mpTqn\nlG9DZRuzjGDzeIf4UUyr8qSTt5aGWX2cJplrFT60SZHev8lVTnIgygPbimQ9v6Yu\nClLodpmMVTxRFNnTcDg8\n=4wqh\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 0c74b893e391d32c6b395a613692978c6a8f5bdc\nparent 870b5abfe74996fb6487730605c232b8af56bf25\nauthor Thejana Weththasinghe <118328955+ThejanaWeththz@users.noreply.github.com> 1770504423 +0530\ncommitter GitHub <noreply@github.com> 1770504423 +0200\n\nClarify ExternalTaskSensor path in dags.rst (#61555)\n\n",
+        "verified_at": "2026-02-07T22:47:04Z"
+      }
+    },
+    "url": "https://api.github.com/repos/apache/airflow/commits/82b345f573b51a2b53c1d23b3d2cd011b971ca65",
+    "html_url": "https://github.com/apache/airflow/commit/82b345f573b51a2b53c1d23b3d2cd011b971ca65",
+    "comments_url": "https://api.github.com/repos/apache/airflow/commits/82b345f573b51a2b53c1d23b3d2cd011b971ca65/comments",
+    "author": {
+      "login": "ThejanaWeththz",
+      "id": 118328955,
+      "node_id": "U_kgDOBw2Oew",
+      "avatar_url": "https://avatars.githubusercontent.com/u/118328955?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ThejanaWeththz",
+      "html_url": "https://github.com/ThejanaWeththz",
+      "followers_url": "https://api.github.com/users/ThejanaWeththz/followers",
+      "following_url": "https://api.github.com/users/ThejanaWeththz/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ThejanaWeththz/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ThejanaWeththz/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ThejanaWeththz/subscriptions",
+      "organizations_url": "https://api.github.com/users/ThejanaWeththz/orgs",
+      "repos_url": "https://api.github.com/users/ThejanaWeththz/repos",
+      "events_url": "https://api.github.com/users/ThejanaWeththz/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ThejanaWeththz/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "870b5abfe74996fb6487730605c232b8af56bf25",
+        "url": "https://api.github.com/repos/apache/airflow/commits/870b5abfe74996fb6487730605c232b8af56bf25",
+        "html_url": "https://github.com/apache/airflow/commit/870b5abfe74996fb6487730605c232b8af56bf25"
+      }
+    ]
+  },
+  {
+    "sha": "870b5abfe74996fb6487730605c232b8af56bf25",
+    "node_id": "C_kwDOAgUK29oAKDg3MGI1YWJmZTc0OTk2ZmI2NDg3NzMwNjA1YzIzMmI4YWY1NmJmMjU",
+    "commit": {
+      "author": {
+        "name": "kamran Imaz",
+        "email": "136354689+KamranImaaz@users.noreply.github.com",
+        "date": "2026-02-07T22:44:08Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-02-07T22:44:08Z"
+      },
+      "message": "Align GCS operator documentation headings with RST style (#61578)",
+      "tree": {
+        "sha": "60b9518c64616fc5f020f220b4ac479fac38e42f",
+        "url": "https://api.github.com/repos/apache/airflow/git/trees/60b9518c64616fc5f020f220b4ac479fac38e42f"
+      },
+      "url": "https://api.github.com/repos/apache/airflow/git/commits/870b5abfe74996fb6487730605c232b8af56bf25",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJph8A4CRC1aQ7uu5UhlAAArRQQAJ3PsA3vU/H1Cf12wzVGSNxl\nztbt8g0BTnYBdgjNWvLK5UOV326UFVIAhBtnZ3ShagjpmuzwWhYOI8Pai8hIhEzm\nuX9ei1PbZCLw6Gc3jppB2USfoDbbNbWt0We61L31EcdlGWDG1fBr2ut8Hcvij4Fs\nb5lUuvWsY/2GmWivU9iaEhzAxo9e7DsyZWT+dsqiFDbO0qY+Z5Lpqou0Q8okjshX\nMmKetLgcgPK806QT/ffPovnRH5m3h4qM5Uw/A1h7lj2Z2usbGOmgPGLPcuwIO1rC\ntF6bV8W20mEmsLkl3nN0zuZ4hiHGysEQ4H+cKsNkEIfjIK8/PLzYmltlYJ90lX/i\nMQfS0/qMN6+0RLtfW0zIwlzU7iQvH2Miy72Zyvbxnl0xDMr2jUdITvCbe3ZvGHEj\nVZUXKAKD2AL6IvaS1eNRaZ2gu63YdxXhvyatjSaVkqqHcJtlMt2LB37+OLxAjmNV\nYyt1M/W7SVwcnt5PHOtDwe3xqF6p4m+/1wwVnnZfcV3xjPxmtU/85yznRcK04nua\nCL6Kb/DrqFDACpcW4EYnrymKiJVTkEfMXFOoRdVhnlPNtDYj3t88+z6KSgJTkx7i\nKyJrFE4B3Jc5pwYNZUbK2UEIiScMJtzOcL05FkKW0tRXm+XgTBNiP0jDZc0PpiuK\nTZzI0UXzFMJK7+6yFsdV\n=kYh6\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 60b9518c64616fc5f020f220b4ac479fac38e42f\nparent cba34323a126e1798ab7d877ad601b7a2ed35d31\nauthor kamran Imaz <136354689+KamranImaaz@users.noreply.github.com> 1770504248 +0530\ncommitter GitHub <noreply@github.com> 1770504248 +0200\n\nAlign GCS operator documentation headings with RST style (#61578)\n\n",
+        "verified_at": "2026-02-07T22:44:09Z"
+      }
+    },
+    "url": "https://api.github.com/repos/apache/airflow/commits/870b5abfe74996fb6487730605c232b8af56bf25",
+    "html_url": "https://github.com/apache/airflow/commit/870b5abfe74996fb6487730605c232b8af56bf25",
+    "comments_url": "https://api.github.com/repos/apache/airflow/commits/870b5abfe74996fb6487730605c232b8af56bf25/comments",
+    "author": {
+      "login": "KamranImaaz",
+      "id": 136354689,
+      "node_id": "U_kgDOCCCbgQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136354689?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/KamranImaaz",
+      "html_url": "https://github.com/KamranImaaz",
+      "followers_url": "https://api.github.com/users/KamranImaaz/followers",
+      "following_url": "https://api.github.com/users/KamranImaaz/following{/other_user}",
+      "gists_url": "https://api.github.com/users/KamranImaaz/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/KamranImaaz/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/KamranImaaz/subscriptions",
+      "organizations_url": "https://api.github.com/users/KamranImaaz/orgs",
+      "repos_url": "https://api.github.com/users/KamranImaaz/repos",
+      "events_url": "https://api.github.com/users/KamranImaaz/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/KamranImaaz/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "cba34323a126e1798ab7d877ad601b7a2ed35d31",
+        "url": "https://api.github.com/repos/apache/airflow/commits/cba34323a126e1798ab7d877ad601b7a2ed35d31",
+        "html_url": "https://github.com/apache/airflow/commit/cba34323a126e1798ab7d877ad601b7a2ed35d31"
+      }
+    ]
+  },
+  {
     "sha": "cba34323a126e1798ab7d877ad601b7a2ed35d31",
     "node_id": "C_kwDOAgUK29oAKGNiYTM0MzIzYTEyNmUxNzk4YWI3ZDg3N2FkNjAxYjdhMmVkMzVkMzE",
     "commit": {
@@ -40832,170 +40996,6 @@
         "sha": "b39a319980b067f5a6de313eb467d48df1112a08",
         "url": "https://api.github.com/repos/apache/airflow/commits/b39a319980b067f5a6de313eb467d48df1112a08",
         "html_url": "https://github.com/apache/airflow/commit/b39a319980b067f5a6de313eb467d48df1112a08"
-      }
-    ]
-  },
-  {
-    "sha": "b39a319980b067f5a6de313eb467d48df1112a08",
-    "node_id": "C_kwDOAgUK29oAKGIzOWEzMTk5ODBiMDY3ZjVhNmRlMzEzZWI0NjdkNDhkZjExMTJhMDg",
-    "commit": {
-      "author": {
-        "name": "AutomationDev85",
-        "email": "96178949+AutomationDev85@users.noreply.github.com",
-        "date": "2026-01-12T22:23:11Z"
-      },
-      "committer": {
-        "name": "GitHub",
-        "email": "noreply@github.com",
-        "date": "2026-01-12T22:23:11Z"
-      },
-      "message": "KubernetesPodOperator check xcom sidecar running before trying to read xcom (#60319)\n\n* check sidecar running before trying to read xcom\n\n* Rename test\n\n---------\n\nCo-authored-by: AutomationDev85 <AutomationDev85>",
-      "tree": {
-        "sha": "37de66b1b0e39c35d63bab8696ab8acb58e146fe",
-        "url": "https://api.github.com/repos/apache/airflow/git/trees/37de66b1b0e39c35d63bab8696ab8acb58e146fe"
-      },
-      "url": "https://api.github.com/repos/apache/airflow/git/commits/b39a319980b067f5a6de313eb467d48df1112a08",
-      "comment_count": 0,
-      "verification": {
-        "verified": true,
-        "reason": "valid",
-        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpZXRPCRC1aQ7uu5UhlAAAuR8QADmGxUr+f9C2PzCrBeERe+ro\n6vOg1DtFHQ/Vqj3pC7bkTODkdfdtkKTCaVLpiSYGOV+V8VJZQ5aVsk5L/Dxohxe5\ngXXlTUv0iFywrDUHtWHrpjjUbArF/xJTsU2tiEnOMDn0K06xuPfkdN2B6jzYOaCq\nyd5zeeVzpkOEA09QVSQZx5nXIyV69rmVXsKOYPBDZQ4DSO8WSOuSDXkkiHx2AYBQ\n0rhv5EnvW8hTqsCpmX1cTJ1aq8CpvhUIf/tvlkTi89i7Htc9q+Tpam5PeCM1mIRt\nbETRC7OBs5vDeVW7hHnYBj92+nPDZJZdTjIv7QZVmD5jlNmyWdq9VZXLOuf9UHZO\nfTAySkwixhIJ3Yd8cEXOFYrIl0Iz8+IsduK1WyTpT3joPztYL9jVOu7pJruPTW1J\ngoR6B2euC0W7U3teXtf7nRqUTXuUdUZcIFfgJJEq7rrijSFPo8QfAGT6HA9qFDaQ\nLbb3Va22k/7K7KHqaHG47yg52K5WVUKwrJr+nTvnxu/n125PIpb/gGrAvsss/lbO\nvXPxBJyahwrdUPWSlcBtwYU8RglVZZQ8d0ENOuAYFTerO3y3ebT/9hDepswkURE9\nz+68SVExCDQghmJHfImlyz/Pi/YqJpYiZDaQCHWF+pygSZox7/ABdLrcSjm4C4x0\na58QyBYrKgcPU+tQWEjO\n=aN8L\n-----END PGP SIGNATURE-----\n",
-        "payload": "tree 37de66b1b0e39c35d63bab8696ab8acb58e146fe\nparent 417698fce9c1f3d2e23259b09592635b8e9bb0d7\nauthor AutomationDev85 <96178949+AutomationDev85@users.noreply.github.com> 1768256591 +0100\ncommitter GitHub <noreply@github.com> 1768256591 +0100\n\nKubernetesPodOperator check xcom sidecar running before trying to read xcom (#60319)\n\n* check sidecar running before trying to read xcom\n\n* Rename test\n\n---------\n\nCo-authored-by: AutomationDev85 <AutomationDev85>",
-        "verified_at": "2026-01-12T22:23:12Z"
-      }
-    },
-    "url": "https://api.github.com/repos/apache/airflow/commits/b39a319980b067f5a6de313eb467d48df1112a08",
-    "html_url": "https://github.com/apache/airflow/commit/b39a319980b067f5a6de313eb467d48df1112a08",
-    "comments_url": "https://api.github.com/repos/apache/airflow/commits/b39a319980b067f5a6de313eb467d48df1112a08/comments",
-    "author": {
-      "login": "AutomationDev85",
-      "id": 96178949,
-      "node_id": "U_kgDOBbuTBQ",
-      "avatar_url": "https://avatars.githubusercontent.com/u/96178949?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/AutomationDev85",
-      "html_url": "https://github.com/AutomationDev85",
-      "followers_url": "https://api.github.com/users/AutomationDev85/followers",
-      "following_url": "https://api.github.com/users/AutomationDev85/following{/other_user}",
-      "gists_url": "https://api.github.com/users/AutomationDev85/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/AutomationDev85/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/AutomationDev85/subscriptions",
-      "organizations_url": "https://api.github.com/users/AutomationDev85/orgs",
-      "repos_url": "https://api.github.com/users/AutomationDev85/repos",
-      "events_url": "https://api.github.com/users/AutomationDev85/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/AutomationDev85/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "committer": {
-      "login": "web-flow",
-      "id": 19864447,
-      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
-      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/web-flow",
-      "html_url": "https://github.com/web-flow",
-      "followers_url": "https://api.github.com/users/web-flow/followers",
-      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
-      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
-      "organizations_url": "https://api.github.com/users/web-flow/orgs",
-      "repos_url": "https://api.github.com/users/web-flow/repos",
-      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/web-flow/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "417698fce9c1f3d2e23259b09592635b8e9bb0d7",
-        "url": "https://api.github.com/repos/apache/airflow/commits/417698fce9c1f3d2e23259b09592635b8e9bb0d7",
-        "html_url": "https://github.com/apache/airflow/commit/417698fce9c1f3d2e23259b09592635b8e9bb0d7"
-      }
-    ]
-  },
-  {
-    "sha": "417698fce9c1f3d2e23259b09592635b8e9bb0d7",
-    "node_id": "C_kwDOAgUK29oAKDQxNzY5OGZjZTljMWYzZDJlMjMyNTliMDk1OTI2MzViOGU5YmIwZDc",
-    "commit": {
-      "author": {
-        "name": "raphaelauv",
-        "email": "raphaelauv@gmail.com",
-        "date": "2026-01-12T22:02:03Z"
-      },
-      "committer": {
-        "name": "GitHub",
-        "email": "noreply@github.com",
-        "date": "2026-01-12T22:02:03Z"
-      },
-      "message": "PysparkOperator and not only a decorator (#60041)\n\n* feat: PysparkOperator and not only a decorator\n\n* clean\n\n* clean2\n\n* remove sc arg\n\n---------\n\nCo-authored-by: raphaelauv <raphaelauv@users.noreply.github.com>",
-      "tree": {
-        "sha": "ceda965c08af34fd1cc3a97627ab7d699d6b14d8",
-        "url": "https://api.github.com/repos/apache/airflow/git/trees/ceda965c08af34fd1cc3a97627ab7d699d6b14d8"
-      },
-      "url": "https://api.github.com/repos/apache/airflow/git/commits/417698fce9c1f3d2e23259b09592635b8e9bb0d7",
-      "comment_count": 0,
-      "verification": {
-        "verified": true,
-        "reason": "valid",
-        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJpZW9bCRC1aQ7uu5UhlAAAY10QABrbvtuDn4+hRUyzdvOkBO22\nD03+DAhPX8FH/mq4riCNrlo0FrZHjY2pBEQt6JebxtLP4rOhrACA3JEnyVIJT4cb\nxVVCGVBiKBY2lbSDWY2i49m9+rcbGBf1QVO1+oBdc2c3xz+hVrlbFmfcfzB44LGv\n4qcsk1T2gD8fY3m8BX3cm9j4wl/9BFER5KoIM9guvfRTmRqU3JS2BfLCaBsDnAka\n5imnWquk6CdX90ATYPR0hpPa8VsrUp6ZVRq7XzSNKA490BbfVdybZX6E5cVWCwg0\nfpktNNmgQHFwAovw5YkvgB0UscG5tjPO6O5GCbOHLFpg530OuwRnVg4Mgql+E490\nOBiNOdI9XchV/+tWP8ldcPPmcfmKvKR7EV5gR5r8gI0lOghHUOEakXGSx7r3ovG5\nOYHbcR2AsVkfgEAhBZSi5ZEFlauun90idpHto6KX9jOP3kt3gZy+KFdvl2fWHlOb\nAxAD/s7oE1RT+LQ7peB1gMOZzVsXXThWiW4gU6x73mTRU5Q8juWl2w8r/nAh17y7\ntQat6rjGMVG94z9H0+CMVcXAjseRneE0OzCN50LKKhp7ASvtIK1mFyPIJXvPoWDF\nxB+YcpOrl2H1kMZG6pYukdDNqoiw3zs4M27sLHamqylfLYYZJMi9G0xL/2Es27If\nD64mm80b23e4eYpz+8V1\n=BVTH\n-----END PGP SIGNATURE-----\n",
-        "payload": "tree ceda965c08af34fd1cc3a97627ab7d699d6b14d8\nparent 5496e150c136d3137e1d6717a46043b0d574fbad\nauthor raphaelauv <raphaelauv@gmail.com> 1768255323 +0100\ncommitter GitHub <noreply@github.com> 1768255323 +0100\n\nPysparkOperator and not only a decorator (#60041)\n\n* feat: PysparkOperator and not only a decorator\n\n* clean\n\n* clean2\n\n* remove sc arg\n\n---------\n\nCo-authored-by: raphaelauv <raphaelauv@users.noreply.github.com>",
-        "verified_at": "2026-01-12T22:02:03Z"
-      }
-    },
-    "url": "https://api.github.com/repos/apache/airflow/commits/417698fce9c1f3d2e23259b09592635b8e9bb0d7",
-    "html_url": "https://github.com/apache/airflow/commit/417698fce9c1f3d2e23259b09592635b8e9bb0d7",
-    "comments_url": "https://api.github.com/repos/apache/airflow/commits/417698fce9c1f3d2e23259b09592635b8e9bb0d7/comments",
-    "author": {
-      "login": "raphaelauv",
-      "id": 10202690,
-      "node_id": "MDQ6VXNlcjEwMjAyNjkw",
-      "avatar_url": "https://avatars.githubusercontent.com/u/10202690?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/raphaelauv",
-      "html_url": "https://github.com/raphaelauv",
-      "followers_url": "https://api.github.com/users/raphaelauv/followers",
-      "following_url": "https://api.github.com/users/raphaelauv/following{/other_user}",
-      "gists_url": "https://api.github.com/users/raphaelauv/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/raphaelauv/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/raphaelauv/subscriptions",
-      "organizations_url": "https://api.github.com/users/raphaelauv/orgs",
-      "repos_url": "https://api.github.com/users/raphaelauv/repos",
-      "events_url": "https://api.github.com/users/raphaelauv/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/raphaelauv/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "committer": {
-      "login": "web-flow",
-      "id": 19864447,
-      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
-      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/web-flow",
-      "html_url": "https://github.com/web-flow",
-      "followers_url": "https://api.github.com/users/web-flow/followers",
-      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
-      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
-      "organizations_url": "https://api.github.com/users/web-flow/orgs",
-      "repos_url": "https://api.github.com/users/web-flow/repos",
-      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/web-flow/received_events",
-      "type": "User",
-      "user_view_type": "public",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "5496e150c136d3137e1d6717a46043b0d574fbad",
-        "url": "https://api.github.com/repos/apache/airflow/commits/5496e150c136d3137e1d6717a46043b0d574fbad",
-        "html_url": "https://github.com/apache/airflow/commit/5496e150c136d3137e1d6717a46043b0d574fbad"
       }
     ]
   }
